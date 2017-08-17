@@ -1,0 +1,6 @@
+.example-fill-remaining-space {
+    flex: 1 1 auto;
+  }
+md-button{
+    line-height: 65px!important;
+}
